@@ -1,3 +1,5 @@
 /teamspace/studios/this_studio/deepfake/dataset/
 /teamspace/studios/this_studio/deepfake/dataset/
 best_model.pth
+.env
+best_model_cnn.pth
